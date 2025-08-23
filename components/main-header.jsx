@@ -9,12 +9,8 @@ export default function MainHeader() {
       </div>
       <nav>
         <ul>
-          <li>
-            <NavLink href="/news">News</NavLink>
-          </li>
-          <li>
-            <NavLink href="/archive">Archive</NavLink>
-          </li>
+          <li>{/* <NavLink href="/news">News</NavLink> */}</li>
+          <li>{/* <NavLink href="/archive">Archive</NavLink> */}</li>
         </ul>
       </nav>
     </header>
